@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../crypto/.idea/crypto.iml" filepath="$PROJECT_DIR$/../crypto/.idea/crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/swizzler.iml" filepath="$PROJECT_DIR$/.idea/swizzler.iml" />
+    </modules>
+  </component>
+</project>
